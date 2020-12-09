@@ -16,7 +16,7 @@
 #### responseloop.py : This is the response loop where the control goes after main2.py processes it
 #### takeCommand.py : Converts text to speech
 #### speachModuel.py : Converts speech to text
-#### Rest of them are self explainatory 
+#### Rest of them are self explanatory 
 
 If any doubts contact me @ sreddy2095@gmail.com
 
